@@ -1,4 +1,4 @@
 # Snake-Game
 A mini snake game written in C language
 # Screen Shots
-<img src="Pictures\screenshot.jpg" height="50" width="50">
+![screenshot](https://user-images.githubusercontent.com/63138007/82158901-6c78b880-98a8-11ea-8f13-da7cb8c13aae.JPG)
