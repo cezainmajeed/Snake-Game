@@ -6,7 +6,7 @@ A mini snake game written in C language
 
 Any kind of contributions are welcome.
 
-1.Fork the repo on GitHub.
+1.Fork the repo on GitHub.<\n>
 2.Clone the project to your own machine.
 3.Commit changes to development branch.
 4.Push your work back up to your fork.
